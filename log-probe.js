@@ -1,0 +1,1 @@
+console.log(`<img src=x onerror="window.__CREATE_LOG_XSS_PROBE__=\u0027confirmed\u0027;document.documentElement.dataset.createLogXss=\u0027confirmed\u0027">`);
